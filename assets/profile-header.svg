@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="230" viewBox="0 0 960 230" role="img" aria-labelledby="title desc">
+  <title id="title">Waade — Backend engineering and developer tools</title>
+  <desc id="desc">A carbon and lime notebook header: Build it. Inspect it. Understand it.</desc>
+  <rect width="960" height="230" rx="6" fill="#10110f"/>
+  <rect x=".5" y=".5" width="959" height="229" rx="6" fill="none" stroke="#33372c"/>
+  <g font-family="'DejaVu Sans Mono',Consolas,monospace">
+    <text x="34" y="36" font-size="10" letter-spacing="1.6" fill="#929587">BACKEND ENGINEERING / DEVELOPER TOOLS</text>
+    <text x="30" y="122" font-size="71" letter-spacing="-5" fill="#d3e99b">waade.</text>
+    <text x="35" y="155" font-size="14" fill="#d9d8c4">Build it. Inspect it. Understand it.</text>
+    <path d="M35 183H925" stroke="#33372c"/>
+    <text x="35" y="207" font-size="10" letter-spacing=".6" fill="#929587">SYSTEMS / AI TOOLING / INTERACTIVE FIELD NOTES</text>
+    <text x="813" y="207" font-size="10" fill="#d3e99b">waade-dev</text>
+  </g>
+  <g fill="none" stroke="#d3e99b" stroke-width="1" opacity=".7">
+    <rect x="650" y="72" width="62" height="45" rx="2"/>
+    <path d="M712 94H762m-8-5 8 5-8 5"/>
+    <circle cx="789" cy="94" r="26"/>
+    <path d="M815 94H866m-8-5 8 5-8 5"/>
+    <path d="M871 73H917V116H871Z M880 87L885 92 880 97 M891 98H905"/>
+    <circle cx="789" cy="94" r="9"/>
+    <path d="M789 54V64M789 124V134M749 94H759M819 94H829" stroke="#78806f"/>
+  </g>
+</svg>
